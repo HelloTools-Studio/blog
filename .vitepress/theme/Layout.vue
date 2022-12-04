@@ -19,7 +19,7 @@ const isNotFound = computed(() => route.component === NotFound)
             class="inline-block mr-2"
             style="width: 36px; height: 31px"
             alt="logo"
-            src="/logo.svg"
+            src="/logo.png"
           />
           <span v-if="!isIndex" class="hidden md:inline dark:text-white">HelloTools Team Blog</span>
         </a>

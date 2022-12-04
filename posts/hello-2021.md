@@ -2,7 +2,7 @@
 title: 团队博客正式上线啦~
 date: 2022-12-04
 author: 甜力怕
-github_username: xiaozhu2007
+avatar: https://yeeee.ml/img/member-xiaozhu2007.png
 ---
 
 随着12月到来，我们团队有了新的博客！在这篇文章中，我们想回顾一下2022年的一些项目的要点，以及我们对2023的一些想法。
