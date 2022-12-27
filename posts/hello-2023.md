@@ -12,3 +12,7 @@ avatar: https://yeeee.ml/img/member-xiaozhu2007.png
 ## 回首 2022
 
 2022 年是不平凡的一年，我们携手共进，克服疫情。2023 年缓缓到来，新的一年有会有好的运气！
+
+<div style="text-align: center;margin: 20px 0;width: 100%;">
+    <a href="https://sa.net/" target="_blank"><img src="https://ip.sb/assets/images/rivencloud_ads.gif" style="border-radius: 3px;width: 100%;max-width: 728px;"></a>
+</div>
