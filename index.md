@@ -1,4 +1,4 @@
 ---
-title: HelloTools Blog
-subtext: Updates & tips from the maintainers of HelloTools.
+title: Home
+subtext: 这里是 HelloTools Studio 的官方博客
 ---
