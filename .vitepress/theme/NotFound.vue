@@ -1,5 +1,5 @@
 <script setup lang="ts">
-const base = "/"
+const base = '/'
 </script>
 
 <template>
@@ -8,13 +8,12 @@ const base = "/"
     <h1 class="title">PAGE NOT FOUND</h1>
     <div class="divider" />
     <blockquote class="quote">
-      But if you don't change your direction, and if you keep looking, you may end up where you are heading.
+      But if you don't change your direction, and if you keep looking, you may
+      end up where you are heading.
     </blockquote>
 
     <div class="action">
-      <a class="link" :href="base" aria-label="go to home">
-        Take me home
-      </a>
+      <a class="link" :href="base" aria-label="go to home"> Take me home </a>
     </div>
   </div>
 </template>
@@ -45,7 +44,7 @@ const base = "/"
   margin: 24px auto 18px;
   width: 64px;
   height: 1px;
-  background-color: var(--vp-c-divider)
+  background-color: var(--vp-c-divider);
 }
 .quote {
   margin: 0 auto;
@@ -65,7 +64,7 @@ const base = "/"
   font-size: 14px;
   font-weight: 500;
   color: var(--vp-c-brand);
-  transition: border-color 0.25s, color .25s;
+  transition: border-color 0.25s, color 0.25s;
 }
 .link:hover {
   border-color: var(--vp-c-brand-dark);
