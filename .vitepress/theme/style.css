@@ -113,7 +113,7 @@ p img {
 }
 
 button.copy {
-  display: none; // 不显示复制按钮
+  display: none;
 }
 
 span.lang {
