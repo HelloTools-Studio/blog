@@ -42,7 +42,7 @@ p img {
 .token.prolog,
 .token.doctype,
 .token.cdata {
-  color: #999; // 注释
+  color: #999;
 }
 
 .token.punctuation {
@@ -53,24 +53,24 @@ p img {
 .token.attr-name,
 .token.namespace,
 .token.deleted {
-  color: #e2777a; // 命名空间
+  color: #e2777a;
 }
 
 .token.function-name {
-  color: #6196cc; // 函数名
+  color: #6196cc;
 }
 
 .token.boolean,
 .token.number,
 .token.function {
-  color: #f08d49; // 类型
+  color: #f08d49;
 }
 
 .token.property,
 .token.class-name,
 .token.constant,
 .token.symbol {
-  color: #f8c555; // 
+  color: #f8c555;
 }
 
 .token.selector,
@@ -78,7 +78,7 @@ p img {
 .token.atrule,
 .token.keyword,
 .token.builtin {
-  color: #cc99cd; // 关键词
+  color: #cc99cd;
 }
 
 .token.string,
@@ -86,7 +86,7 @@ p img {
 .token.attr-value,
 .token.regex,
 .token.variable {
-  color: #7ec699; // 变量
+  color: #7ec699;
 }
 
 .token.operator,
